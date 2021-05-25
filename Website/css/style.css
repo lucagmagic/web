@@ -1,6 +1,7 @@
 @font-face {
     /* src: url(/fonts/Marques\ Stamp.ttf); */
-    src: url(/Website/fonts/Marques\ Stamp.ttf);
+    /* src: url(/Website/fonts/Marques\ Stamp.ttf); */
+    src: url("../fonts/Marques Stamp.ttf")
     font-family: marquesItalic;
 }
 
