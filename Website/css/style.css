@@ -1,5 +1,5 @@
 @font-face {
-    src: url("../Website/Marques Stamp.ttf") format('truetype');
+    src: url(../Marques\ Stamp.ttf);
     /* src: url(/Website/fonts/Marques\ Stamp.ttf); */
     font-family: marquesItalic;
 }
