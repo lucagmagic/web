@@ -200,6 +200,7 @@ input[type=submit] {
     margin-top: 6px;
     margin-bottom: 16px;
     margin: 6px 20px 16px 20px;
+    -webkit-appearance: none;
 }
 
 label {
